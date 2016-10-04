@@ -1,0 +1,4 @@
+xv6-public/
+lab/
+node_modules/
+*.out
